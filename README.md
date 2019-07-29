@@ -13,12 +13,9 @@ Arduino Weather Station is a 3D Printed homemade project, that has requires only
 
 </br>
 
-This project body/case was printed using PLA 1.75mm (yellow and black)
+This project body/case was printed using PLA 1.75mm (yellow and black) and the .STL files are available on [Thingiverse](https://www.thingiverse.com/thing:3769926)
 
 Below you can see the end result of this project. 
-
-</br>
-
 ![alt text](https://github.com/ManolescuSebastian/Arduino-Weather-Station/blob/master/images/weather_station_picture.jpg)
 
 </br>
