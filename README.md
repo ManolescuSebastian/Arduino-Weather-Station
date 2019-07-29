@@ -1,2 +1,39 @@
 # Arduino-Weather-Station
 Arduino project that provides weather information in real time
+
+
+Arduino Weather Station is a 3D Printed homemade project, that has requires only two components to build it (and a 3D Printer of course)
+- Wemos D1 Mini 
+- ST7735 1.8" Color TFT Display.
+- female to female jumper wires
+
+</br>
+
+**No soldering required.**
+
+</br>
+
+This project body/case was printed using PLA 1.75mm (yellow and black)
+
+Below you can see the end result of this project. 
+
+</br>
+
+![alt text](https://github.com/ManolescuSebastian/Arduino-Weather-Station/blob/master/images/weather_station_picture.jpg)
+
+</br>
+
+Pin connections between our device and the display.
+
+</br>
+
+Wemos D1 Mini | TFT 1.8" Display
+------------ | -------------
+5V | VCC
+GND | GND
+D8 | CS
+D4 | RESET
+D3 | A0
+D7 | SDA
+D5 | SCK
+LED | 3V3
