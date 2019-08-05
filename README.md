@@ -38,5 +38,4 @@ LED | 3V3
 
 Improvements that I would like to make in the near future:
 - [ ] Add an **MPU-6050** (Gyro+Accelerometer Sensor) so that when I rotate the widget, layout would change from portrait to landscape mode
-- [ ] Improve code
 - [ ] Connect mobile phone to widget so that I can control the data on the screen (i.e. location, units etc)
