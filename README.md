@@ -5,7 +5,6 @@ Provides weather information based on selected location
    <img src="https://github.com/ManolescuSebastian/Arduino-Weather-Station/blob/master/images/weather_station_picture.jpg" width="80%"></img>
 </p>
 
-
 Hardware requirements
 -----
 
@@ -24,8 +23,6 @@ Arduino Weather Station is a 3D Printed homemade project, that has requires only
 This project body/case was printed using PLA (1.75mm) the .STL files are available on [Thingiverse](https://www.thingiverse.com/thing:3769926)
 
 Pin connections between our device and the display.
-
-</br>
 
 Pin Connection
 -----
