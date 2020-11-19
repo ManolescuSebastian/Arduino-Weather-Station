@@ -38,6 +38,19 @@ D7 | SDA
 D5 | SCK
 LED | 3V3
 
+OR nodemcu esp8266 (not tested yet)
+
+nodemcu ESP8266 | TFT 1.8" Display
+------------ | -------------
+5V | VCC
+GND | GND
+D8 | CS
+D4 | RESET
+D3 | A0
+D2 | SDA
+D1 | SCK
+LED | 3V3
+
 
 License
 ------
